@@ -1,0 +1,11 @@
+C:\Users\Omar\Desktop\Server\Server\bin\Debug\netcoreapp3.0\Server.exe
+C:\Users\Omar\Desktop\Server\Server\bin\Debug\netcoreapp3.0\Server.deps.json
+C:\Users\Omar\Desktop\Server\Server\bin\Debug\netcoreapp3.0\Server.runtimeconfig.json
+C:\Users\Omar\Desktop\Server\Server\bin\Debug\netcoreapp3.0\Server.runtimeconfig.dev.json
+C:\Users\Omar\Desktop\Server\Server\bin\Debug\netcoreapp3.0\Server.dll
+C:\Users\Omar\Desktop\Server\Server\bin\Debug\netcoreapp3.0\Server.pdb
+C:\Users\Omar\Desktop\Server\Server\obj\Debug\netcoreapp3.0\Server.csprojAssemblyReference.cache
+C:\Users\Omar\Desktop\Server\Server\obj\Debug\netcoreapp3.0\Server.AssemblyInfoInputs.cache
+C:\Users\Omar\Desktop\Server\Server\obj\Debug\netcoreapp3.0\Server.AssemblyInfo.cs
+C:\Users\Omar\Desktop\Server\Server\obj\Debug\netcoreapp3.0\Server.dll
+C:\Users\Omar\Desktop\Server\Server\obj\Debug\netcoreapp3.0\Server.pdb

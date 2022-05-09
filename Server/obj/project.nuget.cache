@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z7Ln/IiqNwBYpZpXCyR0kpIiaDY3bpLgDEIFIjzwOK1g91w6CehTWqNfoiB0QYxQ72BQ2WQmnA9xtOuZT2ILVw==",
+  "success": true,
+  "projectFilePath": "D:\\College\\GitHub\\Server\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omar_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\omar_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\omar_\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\omar_\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
